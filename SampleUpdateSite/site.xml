@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="SampleUpdateSite" url="https://github.com/dkkim77/SampleUpdateSite.git">
+      https://github.com/dkkim77/SampleUpdateSite.git
+   </description>
+   <feature url="features/SampleFeature_1.0.0.202503060024.jar" id="SampleFeature" version="1.0.0.202503060024">
+      <category name="Sample Category1"/>
+   </feature>
+   <archive path="SampleUpdateSite" url="https://github.com/dkkim77/SampleUpdateSite.git"/>
+   <category-def name="Sample Category1" label="Sample Category1">
+      <description>
+         Sample Category1 설명
+      </description>
+   </category-def>
 </site>
