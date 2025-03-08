@@ -3,7 +3,7 @@
    <description name="SampleUpdateSite" url="https://github.com/dkkim77/SampleUpdateSite.git">
       https://github.com/dkkim77/SampleUpdateSite.git
    </description>
-   <feature url="features/SampleFeature_1.0.1.jar" id="SampleFeature" version="1.0.1">
+   <feature url="features/SampleFeature_1.0.2.jar" id="SampleFeature" version="1.0.2">
       <category name="Sample Category1"/>
    </feature>
    <archive path="SampleUpdateSite" url="https://github.com/dkkim77/SampleUpdateSite.git"/>
